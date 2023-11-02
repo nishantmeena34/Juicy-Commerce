@@ -1,0 +1,1 @@
+home/special.polls.com/polls/static
